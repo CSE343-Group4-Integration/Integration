@@ -1,3 +1,4 @@
+#request islemi gerceklestiren method
 import  requests
 import json
 payload = {
